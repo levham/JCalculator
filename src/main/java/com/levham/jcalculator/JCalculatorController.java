@@ -36,7 +36,7 @@ class JCalculatorController {
         // 2 veya daha fazla parametreli ise 
         if (args.length >= 2) {
             switch (firstArg) {
-                case "age", "yaş" ->
+                case "age", "yaş", "yas" ->
                     JCalculatorService.age(args[1]);
 
                 case "date", "tarih" -> {

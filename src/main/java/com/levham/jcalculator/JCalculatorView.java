@@ -19,6 +19,9 @@ public class JCalculatorView {
         System.out.println("    age 1990");
         System.out.println("    age 29.01.1990");
         System.out.println("    age 29/01/1990\n");
+        System.out.println("    yas 1990");
+        System.out.println("    yas 29.01.1990");
+        System.out.println("    yas 29/01/1990\n");
 
         System.out.println("  sum <number1> <number2> ...");
         System.out.println("  topla <sayı1> <sayı2> ...");
