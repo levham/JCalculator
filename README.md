@@ -1,12 +1,12 @@
 # JCalculator ![badge](https://img.shields.io/badge/Java%20Language-brown) 
  _Konsol tabanlı tarih, yaş ve matematik hesaplama programı._
+ _java jdk21 gerektirir_
 
  _Tarih farkı, yaş hesaplama ve dört işlem gibi temel matematiksel işlemleri kolayca yapmanızı sağlar._
 
 ### [🢆 JCalculator.exe](https://github.com/levham/JCalculator/raw/refs/heads/main/JCalculator.exe)  
 ### [🢆 JCalculator-1.0.jar](https://github.com/levham/JCalculator/raw/refs/heads/main/JCalculator-1.0.jar)  
-
-- java jdk21 gerektirir 
+ 
 
 ### Çalıştırma
 ```
@@ -15,6 +15,7 @@ Java.exe -jar JCalculator-1.0.jar help
 ```
 JCalculator.exe help
 ```
+
 
 ### Komutlar
 
