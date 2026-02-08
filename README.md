@@ -3,18 +3,17 @@
 
  _Tarih farkı, yaş hesaplama ve dört işlem gibi temel matematiksel işlemleri kolayca yapmanızı sağlar._
 
+### [🢆 JCalculator.exe](https://github.com/levham/JCalculator/raw/refs/heads/main/JCalculator.exe)  
 ### [🢆 JCalculator-1.0.jar](https://github.com/levham/JCalculator/raw/refs/heads/main/JCalculator-1.0.jar)  
 
-### Gereksinimler
-- Java 21  
-- Maven
+- java jdk21 gerektirir 
 
 ### Çalıştırma
 ```
-Java.exe -jar JCalculator komutlar
+Java.exe -jar JCalculator-1.0.jar help
 ```
 ```
-JCalculator.bat komutlar
+JCalculator.exe help
 ```
 
 ### Komutlar
